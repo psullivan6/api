@@ -1,17 +1,17 @@
 [
   {
-    name: 'Neo',
-    slug: 'neo',
-    poster: 'https://images.unsplash.com/photo-1559852865-f4ead0b3d8e7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max'
+    "name": "Neo",
+    "slug": "neo",
+    "poster": "https://images.unsplash.com/photo-1559852865-f4ead0b3d8e7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"
   },
   {
-    name: '🤘',
-    slug: '🤘',
-    poster: 'https://images.unsplash.com/photo-1560971501-4c1cbc01f36c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max'
+    "name": "🤘",
+    "slug": "🤘",
+    "poster": "https://images.unsplash.com/photo-1560971501-4c1cbc01f36c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"
   },
   {
-    name: 'Chance the Rapper\'s Hat',
-    slug: 'chance-the-rappers-hat',
-    poster: 'https://images.unsplash.com/photo-1561983273-584475c50236?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max'
+    "name": "Chance the Rapper's Hat",
+    "slug": "chance-the-rappers-hat",
+    "poster": "https://images.unsplash.com/photo-1561983273-584475c50236?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"
   }
 ]
